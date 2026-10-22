@@ -2,9 +2,7 @@
 
 ## 1. Project Overview
 
-This project demonstrates how public health monitoring and evaluation methods can be used to track Community-Based Health Insurance (CBHI) enrollment performance.
-
-The project uses **synthetic data** to demonstrate how to compare enrollment targets with actual results, identify performance gaps, and communicate findings to decision-makers.
+This project demonstrates how public health monitoring and evaluation methods can be used to track Community-Based Health m
 
 ## 2. Project Objectives
 
